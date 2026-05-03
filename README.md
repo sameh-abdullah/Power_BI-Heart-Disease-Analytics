@@ -88,10 +88,10 @@ The model is built around one main fact table with supporting calculated tables 
 ---
 
 ## 📁 Project Structure
-├── data/ # Dataset (Excel file)
-├── images/ # Dashboard screenshots
-├── reports/ # Power BI file (.pbix)
-└── README.md
+- ├── data/ # Dataset (Excel file)
+- ├── images/ # Dashboard screenshots
+- ├── reports/ # Power BI file (.pbix)
+- └── README.md
 
 
 ---
