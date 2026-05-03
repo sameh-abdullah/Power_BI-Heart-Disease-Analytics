@@ -88,10 +88,10 @@ The model is built around one main fact table with supporting calculated tables 
 ---
 
 ## 📁 Project Structure
-- ├── data/ # Dataset (Excel file)
-- ├── images/ # Dashboard screenshots
-- ├── reports/ # Power BI file (.pbix)
-- └── README.md
+ ├── dataset/ # Dataset (Excel file) <br>
+ ├── images/ # Dashboard screenshots <br>
+ ├── reports template/ # Power BI file (.pbit) <br>
+ └── README.md
 
 
 ---
@@ -106,7 +106,7 @@ This project demonstrates:
 ---
 
 ## 👤 Author
-**[Sameh Abdullah]**  
-- LinkedIn: [Your Profile]  
+**Sameh Abdullah**  
+**LinkedIn: <a href="https://linkedin.com/in/sameh-abdullah-961554176"> My Profile </a> 
 
 ---
