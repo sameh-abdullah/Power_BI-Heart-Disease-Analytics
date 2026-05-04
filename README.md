@@ -82,7 +82,7 @@ The model is built around one main fact table with supporting calculated tables 
 ---
 
 ## 🖼️ Dashboard Preview
-**Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJmMjUxZTMtZWQwMS00ZTkwLTgwOGEtOGVjYzAwMTY0YTVlIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9>Disease Analysis Dashboard</a></br>
+**Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJmMjUxZTMtZWQwMS00ZTkwLTgwOGEtOGVjYzAwMTY0YTVlIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Disease Analysis Dashboard</a></br>
 
 
 
@@ -91,8 +91,8 @@ The model is built around one main fact table with supporting calculated tables 
 
 ## 📁 Project Structure
  ├── dataset/ <a href="">Dataset (Excel file)</a> <br>
- ├── images/ # Dashboard screenshots <br>
- ├── reports template/ # Power BI file (.pbit) <br>
+ ├── images/ <a href=""> Dashboard screenshots</a> <br>
+ ├── reports template/ <a href=" "> Power BI file (.pbit)</a> <br>
  └── README.md
 
 
@@ -109,6 +109,6 @@ This project demonstrates:
 
 ## 👤 Author
 **Sameh Abdullah**  
-**LinkedIn: <a href="https://linkedin.com/in/sameh-abdullah-961554176"> My Profile </a> 
+**LinkedIn**: <a href="https://linkedin.com/in/sameh-abdullah-961554176"> My Profile </a> 
 
 ---
