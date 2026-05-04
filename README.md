@@ -84,6 +84,7 @@ The model is built around one main fact table with supporting calculated tables 
 ## 🖼️ Dashboard Preview
 **Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJmMjUxZTMtZWQwMS00ZTkwLTgwOGEtOGVjYzAwMTY0YTVlIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Disease Analysis Dashboard</a></br>
 
+<img src="" width="400"/>
 
 
 
