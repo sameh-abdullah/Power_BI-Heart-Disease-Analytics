@@ -92,7 +92,7 @@ The model is built around one main fact table with supporting calculated tables 
 ## 📁 Project Structure
  ├── dataset/ <a href="">Dataset (Excel file)</a> <br>
  ├── images/ <a href=""> Dashboard screenshots</a> <br>
- ├── reports template/ <a href=" "> Power BI file (.pbit)</a> <br>
+ ├── reports template/ <a href="report template"> Power BI file (.pbit)</a> <br>
  └── README.md
 
 
