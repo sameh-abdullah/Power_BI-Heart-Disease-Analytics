@@ -84,9 +84,8 @@ The model is built around one main fact table with supporting calculated tables 
 ## 🖼️ Dashboard Preview
 **Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJmMjUxZTMtZWQwMS00ZTkwLTgwOGEtOGVjYzAwMTY0YTVlIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Disease Analysis Dashboard</a></br>
 
-<img src="" width="400"/>
-
-
+**Project Dashboard Image**
+<img src="https://github.com/sameh-abdullah/Power_BI-Heart-Disease-Analytics/blob/main/Images/Screenshot%202026-05-03%20212815.png" width="1000" heigh="1000"/>
 
 ---
 
